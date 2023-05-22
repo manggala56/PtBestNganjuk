@@ -1,82 +1,4 @@
-/* ----------------------------------
 
-Template Name: Agrul - Organic Farm Agriculture Template
-Author: validtheme
-Description:
-Version: 1.0
-
-Main Font    : Manrope
-Main Color   : #6222cc
-
--------------------------------------
-
-[Typography]
-
-Body copy:    15px 'Manrope', sans-serif
-Header:     36px 'Manrope', sans-serif
-Input, textarea:  16px 'Manrope', sans-serif
-Sidebar heading:  20px 'Manrope', sans-serif
-
->>> TABLE OF CONTENTS:
-=======================
-        
-    01. Template default css
-        - Animations
-        - General
-        - Section Title
-        - Video Button
-        - Typography
-        - Tables
-        - Forms
-        - Buttons
-        - Pagination
-        - Colors
-    02. Preloader
-    03. Topbar
-	    - Topbar Regular
-        - Topbar With Menu
-    04 Navbar
-        - Navbar Default
-        - Navbar Right Menu
-        - Navbar Sticky
-        - Navbar Center
-    05. Banner
-        - Banner Style One
-        - Banner Style Two
-    06. About Us
-	    - About Style One
-        - About Style Two
-    07. Services
-        - What We Do (Slider)
-        - Services With Image & Icon
-        - Services Single
-    09. Product
-		- Product Light Version
-        - Product Dark Version
-    10. Why Choose Us
-    11. Fun Factor
-    12. Testimonials
-    13. Farmers
-        - Farmer Grid
-        - Farmer Details
-    14. Projects
-        - Project Slider
-        - Prject Grid
-        - Prject Details
-    15. Order Process
-    16. Clients / Brand
-    17. Blog
-        - Standard
-        - Blog Grid
-        - Left Sidebar
-        - Right Sidebar
-        - Single
-    18. Error 404
-    19. Footer
-    20. PHP Contact Form
-    21. Others
-
-*/
 
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
 
@@ -7821,3 +7743,19 @@ footer {
 	height: 100%;
 	object-fit: cover;
 }
+/* .btn.join::after {
+	position: absolute;
+	top: inherit;
+	right: inherit;
+	bottom: inherit;
+	left: -5%;
+	content: "";
+	height: 80px;
+	width: 115%;
+	z-index: -1;
+	background-color: var(--color-secondary);
+	-webkit-transition: all 0.25s ease-in-out;
+	transition: all 0.25s ease-in-out;
+	-webkit-transform: translateY(-45%) skew(25deg) scale(0);
+	transform: translateY(-45%) skew(25deg) scale(0);
+} */
