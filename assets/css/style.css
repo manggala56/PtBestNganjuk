@@ -7759,3 +7759,8 @@ footer {
 	-webkit-transform: translateY(-45%) skew(25deg) scale(0);
 	transform: translateY(-45%) skew(25deg) scale(0);
 } */
+@media (min-width: 992px) {
+	.video-bottom {
+		margin-top: -7em !important;
+	}
+}
