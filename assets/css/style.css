@@ -7761,6 +7761,6 @@ footer {
 } */
 @media (min-width: 992px) {
 	.video-bottom {
-		margin-top: -7em !important;
+		margin-top: -7em;
 	}
 }
