@@ -7760,7 +7760,7 @@ footer {
 	transform: translateY(-45%) skew(25deg) scale(0);
 } */
 @media (min-width: 992px) {
-	.video-bottom {
-		margin-top: -7em;
+	.left-info.video-bottom {
+		margin-top: -100px;
 	}
 }
